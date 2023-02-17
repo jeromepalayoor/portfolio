@@ -10,6 +10,8 @@ h1{
 
 p{
     color: saddlebrown;
+    position: absolute;
+    top: 20%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     animation: anim 2s ease-in-out 1s infinite both;
 }
